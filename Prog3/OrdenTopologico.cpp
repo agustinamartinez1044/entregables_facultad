@@ -1,4 +1,3 @@
-/*5001764*/
 /*
   Módulo de implementación de `OrdenTopologico'.
 
